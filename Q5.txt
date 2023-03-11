@@ -1,0 +1,5 @@
+ There are ways to make the website more mobile-friendly and easier to read on your iPhone. 
+ Responsive design: One solution is to use responsive design, which is a design technique that allows the website to adjust its layout and content based on the screen size of the device being used to access it.
+ Mobile-friendly design: Another solution is to create a mobile-friendly design that is optimized specifically for smaller screens like those on an iPhone. 
+ Native app: Another solution is to create a native app specifically for iPhones, which can provide a better user experience and more functionality than a mobile website.
+ Overall, there are several solutions available to make your website more mobile-friendly and easier to read on an iPhone.
